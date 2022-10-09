@@ -1,0 +1,11 @@
+[
+    {
+        "firstName": "a",
+        "lastName": "b",
+        "username": "abc@gmail.com",
+        "hash": "$2a$10$JH57YBdPEXyxBfRkDOvig.F3yHACVhWjFMn8u2DZRzJ6fWZb6lKpq",
+        "id": 2,
+        "dateCreated": "2022-10-09T13:30:44.814Z",
+        "dateUpdated": "2022-10-09T13:30:44.814Z"
+    }
+]
